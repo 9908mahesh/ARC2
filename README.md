@@ -1,2 +1,2 @@
-# ARC2
+# ARC
 Your intelligent research assistant powered by RAG &amp; LLMs.
